@@ -1,4 +1,4 @@
-# Hello 👋, I'm Mohamad Rizal Syafi'i 🥶
+# Hello!👋 I'm Mohamad Rizal Syafi'i 🥶
 
 🚀 Welcome to my profile! I'm a passionate data enthusiast specialising in Data Analysis, Data Engineering, and Data Science. I believe in the transformative power of data and strive to turn complex datasets into actionable insights. I’m dedicated to uncovering the stories hidden within data. Let's harness the magic of data together and make a positive impact! 🌟✨
 
