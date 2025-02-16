@@ -37,6 +37,6 @@ I'm always excited to connect with fellow data enthusiasts, professionals, and c
 
 ---
 
-> 💫 Stay curious, remain positive, and keep pushing the boundaries of what’s possible! Every dataset tells a story, and every insight has the power to transform our world. 🍏✨
+> *💫 Stay curious, remain positive, and keep pushing the boundaries of what’s possible! Every dataset tells a story, and every insight has the power to transform our world. 🍏✨*
 
 **Thank you for stopping by! Let's create something extraordinary with data together. 🎉🔥**
